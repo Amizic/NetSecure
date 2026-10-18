@@ -1,5 +1,8 @@
 # NetSecure
 
+> **Disclaimer:** This project was developed with the help of AI. All code
+> has been tested and verified by me.
+
 Post-quantum session security for the `Network` library:
 **ML-KEM-768 + HKDF-SHA256 + AES-256-GCM**. NetSecure is the only library
 that links both `Network` (transport) and `Crypto` (engines) — `Network`
